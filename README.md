@@ -1,96 +1,72 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Moody Mirror 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Stack Hackers
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Sreehari C Nair - College Of Engineering Thalassery
+- Member 1: Sooraj O - College Of Engineering Thalassery
 
 ### Project Description
-[2-3 lines about what your project does]
+Moody Mirror is a web application that uses your webcam to detect your facial expressions in real-time and roasts you with hilarious, personalized insults. It's like having a sarcastic friend trapped in your mirror who never runs out of snarky comments about your face.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are taking themselves too seriously! Facial expressions have become boring and predictable. We noticed a severe lack of sarcastic mirrors that mock you based on how you look. The world needs more pointless humor and less self-esteem.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Moody Mirror combines cutting-edge AI with savage humor to:
+
+1.Analyze your facial expressions using TensorFlow.js
+
+2.Classify your mood (happy, sad, angry, etc.)
+
+3.Generate personalized roasts based on your expression
+
+4.Destroy your self-confidence with surgical precision
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-Languages: HTML, CSS, JavaScript
+-Frameworks: TensorFlow.js
+-Libraries: face-landmarks-detection
+-Tools: GitHub Pages for hosting
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/stack-hackers/moody-mirror.git
+cd moody-mirror
 
 # Run
-[commands]
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="ss/s1.png" />
 *Add caption explaining what this shows*
 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="ss/s2.png" />
 *Add caption explaining what this shows*
 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="ss/s3.png" />
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+User Interaction Flow:
+[Start Camera] → [AI Model Loading] → [Real-time Detection] → [Expression Classification] → [Roast Generation]
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Sreehari C Nair: Project architecture, TensorFlow.js implementation, expression classification
+Sooraj O: UI/UX design, roast database creation, documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
